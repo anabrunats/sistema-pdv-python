@@ -1,6 +1,6 @@
 # Sistema de Ponto de Venda (PDV) em Python
 
-Este é um sistema de **Ponto de Venda (PDV)** desenvolvido inteiramente em Python. O projeto simula o fluxo completo de uma venda comercial, desde o controle de estoque até o fechamento de caixa, aplicando regras de negócios reais como cálculo de comissões, impostos e geração de relatórios de desempenho.
+Este é um sistema de **Ponto de Venda (PDV)** desenvolvido como um desafio acadêmico inteiramente em Python. O projeto simula o fluxo completo de uma venda comercial, desde o controle de estoque até o fechamento de caixa, aplicando regras de negócios reais como cálculo de comissões, impostos e geração de relatórios de desempenho.
 
 ## 🚀 Funcionalidades Implementadas
 
